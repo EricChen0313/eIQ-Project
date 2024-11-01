@@ -16,6 +16,6 @@ $ pip3 install -r requirements.txt
 $ python3 run_model.py --model=<YOUR MODEL NAME> --image=<IMAGE NAME>
 
 # run the model with NPU
-$ python3 run_model.py --model=<YOUR MODEL NAME> --image=<IMAGE NAME>
+$ python3 run_model.py --model=<YOUR MODEL NAME> --image=<IMAGE NAME> --use_npu
 ```
 
