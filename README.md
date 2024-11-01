@@ -10,7 +10,7 @@ $ git clone https://github.com/EricChen0313/eIQ-Project
 # can refer slide 17
 
 # install the packages you may need
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 
 # run the model with CPU
 $ python3 run_model.py --model=<YOUR MODEL NAME> --image=<IMAGE NAME>
